@@ -1,2 +1,2 @@
 # 3D-modelling
-3d cocaloca can modelling using Auotdesk Maya
+3d  modelling using Auotdesk Maya
